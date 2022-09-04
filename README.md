@@ -28,7 +28,7 @@
   <h3 align="center">cart api</h3>
 
   <p align="center">
-    Exercise for MIT xPro Fullstack Bootcamp utilizing STRAPI to practice API calls by creating a shopping cart.
+    Exercise for MIT xPro Fullstack Bootcamp utilizing Strapi to practice API calls by creating a shopping cart.
     <br />
   </p>
 </div>
@@ -39,12 +39,7 @@
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-
-* [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-
+React, Boostrap, Strapi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
